@@ -1,3 +1,4 @@
+#!/opt/anaconda3/bin/python
 '''
 	This short program will count how many times the oligo sequences occurs in the fasta file.
 '''
