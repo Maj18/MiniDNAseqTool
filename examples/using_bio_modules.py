@@ -3,7 +3,7 @@
 '''
 
 import sys
-import my_bio_module as mb
+import miniseqtoolbox as mb
 
 if len(sys.argv) != 3:
 	sys.exit("ERROR: the program should be run as follows (an example): ./using_bio_modules.py regions.fna 'gccat'!")
