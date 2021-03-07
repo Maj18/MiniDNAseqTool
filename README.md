@@ -11,4 +11,4 @@ This toolbox is an exercise of building python modules.
 
 **Usage:**
 
-* The toolbox source code is in file "my_bio_module.py", to use the toolbox, one can refer to the example in file "using_bio_modules.py".
+* To use the toolbox, one can refer to the example in file "using_bio_modules.py".
