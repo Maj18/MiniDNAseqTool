@@ -1,4 +1,4 @@
-# MiniDNAseqTool
+# miniseqtoolbox
 
 This toolbox is an exercise of building python modules.
 
