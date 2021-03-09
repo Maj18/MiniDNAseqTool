@@ -12,3 +12,6 @@ This toolbox is an exercise of building python modules.
 **Usage:**
 
 * To use the toolbox, one can refer to the example in file "using_bio_modules.py".
+
+* Or:   `import miniseqtoolbox as mb`
+	`mb.rev_complement("ATGCCCCAAA")`
